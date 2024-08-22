@@ -1,0 +1,35 @@
+.cl-li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid #cbd5e1;
+  border-radius: 5px;
+  background-color: #1f1f2f;
+}
+
+.cname {
+  color: #f1f5f9;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.vcom {
+  color: #94a3b8;
+  font-size: 20px;
+  padding-right: 10px;
+}
+
+.visitButton {
+  background-color: #3b82f6;
+  padding: 5px;
+  width: 80px;
+  font-weight: bold;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  height: 35px;
+  font-size: 16px;
+}

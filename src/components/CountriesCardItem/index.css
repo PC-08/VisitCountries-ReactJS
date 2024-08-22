@@ -1,0 +1,31 @@
+.ccli {
+  width: 280px;
+  margin: 10px;
+}
+
+.ccimg {
+  width: 280px;
+}
+
+.ccc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f1f2f;
+  padding: 8px;
+}
+
+.ccname {
+  color: #f1f5f9;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.ccbtn {
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  border: 2px solid #f8fafc;
+  border-radius: 8px;
+  padding: 8px;
+}

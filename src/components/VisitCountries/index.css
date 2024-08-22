@@ -1,0 +1,45 @@
+.bg {
+  background-color: #161624;
+  padding: 40px;
+
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+}
+
+.head {
+  color: #f1f5f9;
+  font-weight: 500;
+}
+
+.ulconli {
+  margin: 0;
+
+  padding-top: 20px;
+  list-style-type: none;
+  border: 2px solid #94a3b8;
+  overflow-y: scroll;
+  height: 400px;
+  border-radius: 10px;
+  padding: 0px;
+}
+
+.ulcc {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  margin-top: 40px;
+}
+
+.no-con {
+  height: 40vh;
+  text-align: center;
+  color: #94a3b8;
+  font-weight: bold;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
