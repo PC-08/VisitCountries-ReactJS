@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VisitCountries-ReactJS/static/css/main.a48ff429.chunk.css",
+    "main.js": "/VisitCountries-ReactJS/static/js/main.b07ceee1.chunk.js",
+    "main.js.map": "/VisitCountries-ReactJS/static/js/main.b07ceee1.chunk.js.map",
+    "runtime-main.js": "/VisitCountries-ReactJS/static/js/runtime-main.d1cbb6c8.js",
+    "runtime-main.js.map": "/VisitCountries-ReactJS/static/js/runtime-main.d1cbb6c8.js.map",
+    "static/js/2.db7a2bd6.chunk.js": "/VisitCountries-ReactJS/static/js/2.db7a2bd6.chunk.js",
+    "static/js/2.db7a2bd6.chunk.js.map": "/VisitCountries-ReactJS/static/js/2.db7a2bd6.chunk.js.map",
+    "index.html": "/VisitCountries-ReactJS/index.html",
+    "static/css/main.a48ff429.chunk.css.map": "/VisitCountries-ReactJS/static/css/main.a48ff429.chunk.css.map",
+    "static/js/2.db7a2bd6.chunk.js.LICENSE.txt": "/VisitCountries-ReactJS/static/js/2.db7a2bd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1cbb6c8.js",
+    "static/js/2.db7a2bd6.chunk.js",
+    "static/css/main.a48ff429.chunk.css",
+    "static/js/main.b07ceee1.chunk.js"
+  ]
+}
